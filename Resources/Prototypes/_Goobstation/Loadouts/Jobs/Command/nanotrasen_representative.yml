@@ -42,6 +42,11 @@
   - !type:GroupLoadoutEffect
     proto: SeniorNanotrasenRepresentative
 
+- type: loadout
+  id: NanotrasenRepresentativeScarf
+  equipment:
+    neck: ClothingNeckScarfStripedCentcom
+
 # Backpacks
 - type: loadout
   id: NanotrasenRepresentativeBackpack

@@ -15,6 +15,7 @@
   minLimit: 0
   loadouts:
   - NanotrasenRepresentativeMantle
+  - NanotrasenRepresentativeScarf
 
 - type: loadoutGroup
   id: NanotrasenRepresentativeBackpack
@@ -32,6 +33,13 @@
   - NanotrasenRepresentativeJumpskirt
 
 - type: loadoutGroup
+  id: NanotrasenRepresentativeOuter
+  name: loadout-group-ntr-outer
+  minLimit: 0
+  loadouts:
+  - OuterWinterCentcom
+
+- type: loadoutGroup
   id: NanotrasenRepresentativeBelt
   name: loadout-group-ntr-belt
   minLimit: 0
@@ -46,6 +54,8 @@
   - NanotrasenRepresentativeBoots
   - NanotrasenRepresentativeShoes
   - NanotrasenRepresentativeHeels
+
+
 
 # BSO
 - type: loadoutGroup
