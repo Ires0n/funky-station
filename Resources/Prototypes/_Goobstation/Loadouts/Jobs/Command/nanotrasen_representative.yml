@@ -74,6 +74,13 @@
   equipment:
     jumpsuit: ClothingUniformJumpskirtNanotrasenRepresentative
 
+# Outer
+
+- type: loadout
+  id: NanotrasenRepresentativeWinterCoat
+  equipment:
+    jumpsuit: ClothingOuterWinterCentcom
+
 # Belt
 - type: loadout
   id: NanotrasenRepresentativeClipboard

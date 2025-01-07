@@ -35,9 +35,8 @@
 - type: loadoutGroup
   id: NanotrasenRepresentativeOuter
   name: loadout-group-ntr-outer
-  minLimit: 0
   loadouts:
-  - OuterWinterCentcom
+  - NanotrasenRepresentativeWinterCoat
 
 - type: loadoutGroup
   id: NanotrasenRepresentativeBelt
